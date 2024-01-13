@@ -32,8 +32,8 @@ archive_img_mode: # TODO 这里需要改，不应该用这种图片，应该改�
 # icon
 icon: favicon.ico #标签页图标
 # header
-site_name: white
-site_description: A minimalist theme for hexo. # The default meta description for all the meta descriptions
+site_name: 道格拉斯🐟的外部记忆
+site_description: External Memory of Douglas # The default meta description for all the meta descriptions
 # Add description property to any page to change the meta description
 menu:
   首页: /
@@ -50,7 +50,7 @@ intro:
   title: 你好! 有缘人
   sub: 'A [White](https://github.com/FuShaoLei/hexo-theme-white) theme for [Hexo](http://hexo.io/)' # 支持markdown
   avator: https://cdn.jsdelivr.net/gh/fushaolei/img/20200524104925.jpg #头像
-  author: fushaolei # 所有文章的默认作者
+  author: 道格拉斯鱼 # 所有文章的默认作者
 
 #联系方式
 #更多图标：https://remixicon.com/
@@ -62,14 +62,11 @@ contact:
     - mailto:1563250958@qq.com
     - ri-mail-line
   Music:
-    - https://music.163.com/
+    - https://music.apple.com/
     - ri-netease-cloud-music-line
   Bilibili:
     - https://bilibili.com/
     - ri-bilibili-line
-  Youtube:
-    - https://youtube.com/
-    - ri-youtube-line
 
 
 # comment
@@ -97,7 +94,7 @@ comments:
     dataId: city #免费版本city
     dataUid: #安装代码中 data-uid 后面数据
   cusdis:
-    app_id:
+    app_id: b1abaae5-e037-4ce7-b3ae-b7196fa8f235
 
 pagination: # TODO 添加多语言支持
   prev: 上一页
